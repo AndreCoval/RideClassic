@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RideClassic/static/css/main.ef50e7a1.css",
+    "main.js": "/RideClassic/static/js/main.e8e8c2bc.js",
+    "static/media/mini_hero.jpg": "/RideClassic/static/media/mini_hero.13027e86ad810083bf94.jpg",
+    "index.html": "/RideClassic/index.html",
+    "main.ef50e7a1.css.map": "/RideClassic/static/css/main.ef50e7a1.css.map",
+    "main.e8e8c2bc.js.map": "/RideClassic/static/js/main.e8e8c2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef50e7a1.css",
+    "static/js/main.e8e8c2bc.js"
+  ]
+}
